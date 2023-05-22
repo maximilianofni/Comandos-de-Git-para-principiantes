@@ -40,4 +40,8 @@ lista de comandos útiles para trabajar con Git:
     
     git branch "nombre de la rama ": Crea una nueva rama de trabajo.
     
+    git checkout -b "nombre de la rama" : Crea una nueva rama de trabajo.
+    
+    git checkout "rama" : se posiciona en la rama que quiere trabajar.
+    
     <rama a> git merge " rama b": Combina dos ramas de trabajo, en este ejemplo todo lo de la "rama b" se copiar a la "rama a"
